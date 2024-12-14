@@ -47,6 +47,7 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
+  - Responsible AI
   - Machine Learning
   - Algorithmic Fairness
   - Human-centered AI
