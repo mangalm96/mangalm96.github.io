@@ -4,6 +4,10 @@ authors:
 - Arnav Saxena
 - Mudit Mangal
 - Goonjan Jain
+# Author notes (optional)
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: '2020-12-01'
 publishDate: '2024-12-13T23:39:37.653463Z'
 publication_types:
