@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: white
+  # color: 
 
 # SEO
 marketing:
@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Mudit Mangal personal website'
+    description: 'Mudit Mangal Personal Website'
     twitter: 'mmudit96'
   analytics:
     google_analytics: ''
@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Mudit Mangal"
+      text: "Your Name"
 
 # Site footer
 footer:

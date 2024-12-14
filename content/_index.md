@@ -30,27 +30,27 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-       I am a ML research scientist focusing on Responsible AI, including Algorithmic Fairness, Explainability and Privacy.
-
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
-  # - block: collection
-  #   id: papers
+  # - block: markdown
   #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
+  #     title: '📚 My Research'
+  #     subtitle: ''
+  #     text: |-
+  #      I am a ML research scientist focusing on Responsible AI, including Algorithmic Fairness, Explainability and Privacy.
+
+  #       Please reach out to collaborate 😃
   #   design:
-  #     view: article-grid
-  #     columns: 2
+  #     columns: '1'
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
   - block: collection
     content:
       title: Recent Publications
