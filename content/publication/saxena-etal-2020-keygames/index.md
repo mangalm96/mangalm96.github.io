@@ -32,4 +32,6 @@ links:
   url: https://aclanthology.org/2020.coling-main.184
 # Display this page in the Featured widget?
 featured: true
+tags:
+- NLP
 ---
