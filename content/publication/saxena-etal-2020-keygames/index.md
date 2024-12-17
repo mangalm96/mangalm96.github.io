@@ -34,4 +34,7 @@ links:
 featured: true
 tags:
 - NLP
+{{% callout note %}}
+Outstanding Paper Award
+{{% /callout %}}
 ---
