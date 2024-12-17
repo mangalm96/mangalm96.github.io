@@ -145,12 +145,12 @@ work:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Outstanding Paper Award
-    # url: https://www.coursera.org/learn/neural-networks-deep-learning
+    url: https://aclanthology.org/2020.coling-main.184/
     date: '2020-12-01'
     awarder: COLING 2020
     # icon: coursera
     summary: |
-      Awarded Outstanding Paper award for the COLINT paper - KeyGames
+      Awarded Outstanding Paper award - "KeyGames: A Game Theoretic Approach to Automatic Keyphrase Extraction" at COLING 2020
   # - title: Blockchain Fundamentals
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   #   date: '2023-07-01'
