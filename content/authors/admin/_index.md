@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Data Scientist
+role: Data Scientist at Zillow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,14 +31,14 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mmudit96@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/mangal 96
+    url: https://github.com/mangalm96
   - icon: brands/linkedin
     url: https://www.linkedin.com/mudit-mangal/
   - icon: academicons/google-scholar
@@ -47,10 +47,11 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
+  - Algorithmic Fairness 
   - Responsible AI
-  - Machine Learning
-  - Algorithmic Fairness
   - Human-centered AI
+  - Machine Learning
+
 
 education:
   - area: Masters in Information Science
@@ -62,8 +63,11 @@ education:
       Research on AI Fairness for Education published in a top AI Education journal
       Courses included:
       - Human-centered AI
+      - Social Issues of Information
+      - Information Law and Policy
       - Privacy Engineering 
       - NLP
+      - Machine Learning
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -86,7 +90,10 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
+      - Evaluated LLM to identify Fair Housing violations, distinguishing between local & global biases, achieving 80% accuracy in bias detection.
+      - Implemented guardrails for trust and safety of LLMs. Designed a comprehensive evaluation methodology for jailbreaking in LLMs.
       - Crafted efficient ETL pipelines and extracted insights from big datasets, utilizing PySpark and machine learning techniques like XGBoost.
+      - Increased listing performance by 10% by shipping novel modifications to ranking algorithms by improving diversity in rankings.
   - position: Data Science Consultant
     company_name: McKinsey and Company
     company_url: ''
@@ -95,7 +102,20 @@ work:
     date_end: 2021-07-31
     summary: |
       Responsibilities include:
-      - Generated price elasticities using hierarchical and generalized linear regression models,informing pricing &promotion strategies
+      - Generated price elasticities using hierarchical and generalized linear regression models, informing pricing & promotion strategies. Utilized Tableau for data visualization and insight generation, effectively communicating actionable outcomes to diverse stakeholders.
+      - Unlocked 20% cost savings for a cosmetics chain through portfolio simplification. Leveraged Random Forest to analyze switching behavior.
+  - position: Data Analyst
+    company_name: EXL Service
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-06-01
+    date_end: 2019-12-31
+    # summary: |
+    #   Responsibilities include:
+    #   - Generated price elasticities using hierarchical and generalized linear regression models, informing pricing & promotion strategies. Utilized Tableau for data visualization and insight generation, effectively communicating actionable outcomes to diverse stakeholders.
+    #   - Unlocked 20% cost savings for a cosmetics chain through portfolio simplification. Leveraged Random Forest to analyze switching behavior.
+
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
