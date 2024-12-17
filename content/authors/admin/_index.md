@@ -76,13 +76,12 @@ education:
     date_start: 2015-08-01
     date_end: 2019-05-31
     summary: |
-      
       Courses included:
       - Statistics
       - Linear Algebra
       - Databases
 work:
-    - position: Co-founder and AI Lead
+  - position: Co-founder and AI Lead
     company_name: Egala AI
     company_url: ''
     company_logo: ''
@@ -92,7 +91,7 @@ work:
       Responsibilities include:
       - AI Lead for AI Fairness startup: Egala AI.
       - Enabled AI Healhcare organisations to develop Fair AI solutions
-    - position: Data Scientist II
+  - position: Data Scientist II
     company_name: Zillow
     company_url: ''
     company_logo: ''
