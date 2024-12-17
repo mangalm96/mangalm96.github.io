@@ -1,8 +1,8 @@
 ---
 title: 'KeyGames: A Game Theoretic Approach to Automatic Keyphrase Extraction'
 authors:
-- Arnav Saxena
-- Mudit Mangal
+- Arnav Saxena*
+- Mudit Mangal*
 - Goonjan Jain
 # Author notes (optional)
 author_notes:
