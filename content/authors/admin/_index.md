@@ -82,13 +82,13 @@ education:
       - Linear Algebra
       - Databases
 work:
-  - position: Co-founder and AI Lead
+    - position: Co-founder and AI Lead
     company_name: Egala AI
     company_url: ''
     company_logo: ''
     date_start: 2023-01-01
     date_end: 2024-06-01
-    summary: |2-
+    summary: |
       Responsibilities include:
       - AI Lead for AI Fairness startup: Egala AI.
       - Enabled AI Healhcare organisations to develop Fair AI solutions
