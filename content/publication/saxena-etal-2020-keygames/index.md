@@ -12,7 +12,7 @@ date: '2020-12-01'
 publishDate: '2024-12-13T23:39:37.653463Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the 28th International Conference on Computational Linguistics*'
+publication: '*Proceedings of the 28th International Conference on Computational Linguistics*' :trophy:
 doi: 10.18653/v1/2020.coling-main.184
 abstract: In this paper, we introduce two advancements in the automatic keyphrase
   extraction (AKE) space - KeyGames and pke+. KeyGames is an unsupervised AKE framework
@@ -36,5 +36,5 @@ tags:
 - NLP
 ---
 {{% callout note %}}
-Outstanding Paper Award
+:trophy: Outstanding Paper Award
 {{% /callout %}}

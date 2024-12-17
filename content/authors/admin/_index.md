@@ -88,7 +88,7 @@ work:
     company_logo: ''
     date_start: 2023-01-01
     date_end: 2024-06-01
-    summary: |-
+    summary: |2-
       Responsibilities include:
       - AI Lead for AI Fairness startup: Egala AI.
       - Enabled AI Healhcare organisations to develop Fair AI solutions
