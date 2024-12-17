@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Data Scientist at Zillow
+role: Data Scientist & ML Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -88,9 +88,9 @@ work:
     company_logo: ''
     date_start: 2023-01-01
     date_end: 2024-06-01
-    summary: |2-
+    summary: |-
       Responsibilities include:
-      - AI Lead for AI Fairness startup - Egala AI.
+      - AI Lead for AI Fairness startup: Egala AI.
       - Enabled AI Healhcare organisations to develop Fair AI solutions
     - position: Data Scientist II
     company_name: Zillow
