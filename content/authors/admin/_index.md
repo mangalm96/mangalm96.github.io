@@ -202,4 +202,4 @@ awards:
 
 ## About Me
 
-Mudit Mangal is a Data Scientist and ML researcher. His research interests include ML Fairness, and Human-centered AI.
+Hi! I am a Data Scientist and ML researcher. My research interests include ML Fairness, and Human-centered AI. I completed my Masters in Information Science from the Berkeley School of Information where I focused on Responsible AI and Machine Learning. Currently, working at Zillow on various real estate ML use-cases. Previously, I also co-founded an AI Fairness startup - Egala AI focusing on enabling equity and fairness for healthcare organisations.
